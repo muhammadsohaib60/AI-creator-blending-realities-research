@@ -36,7 +36,6 @@ Content Adaptation: Personalizing AR and VR experiences based on user preference
 
 🧩 Mixed Reality Applications
 
-
 Digital Twins: Creating AI-enhanced digital replicas of real-world objects and environments.
 Interactive Installations: Designing installations that blend physical and digital elements, powered by AI.
 Collaborative Spaces: Building virtual spaces where users can collaborate in real-time, augmented by AI tools.
