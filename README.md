@@ -3,6 +3,7 @@
 Welcome to the AI-Creator-Blending-Realities-Research project! This repository is dedicated to exploring the intersection of artificial intelligence, creative processes, and the blending of virtual and physical realities. Our research aims to push the boundaries of what AI can achieve in generating, enhancing, and transforming creative content across various mediums.
 
 📝 Overview
+
 In this project, we focus on several key areas:
 
 AI-Generated Content: Investigating how AI can autonomously create compelling visual, auditory, and textual content.
@@ -10,7 +11,7 @@ Augmented Reality (AR) and Virtual Reality (VR): Exploring the integration of AI
 Mixed Reality: Blending physical and digital worlds to create seamless, immersive experiences.
 Creative Tools: Developing AI-powered tools to assist creators in their workflows, enhancing creativity and productivity.
 
-🎯 Goals
+🎯 Goals  :
 
 Advance the understanding of AI's role in creative processes.
 Develop state-of-the-art AI models capable of generating high-quality, contextually relevant content.
