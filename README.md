@@ -20,8 +20,6 @@ Develop state-of-the-art AI models capable of generating high-quality, contextua
 Explore innovative applications of AI in AR, VR, and mixed reality environments.
 Create practical tools and frameworks that can be used by artists, designers, and developers.
 
-🔍 Research Areas
-
 🎨 AI-Generated Content
 
 Visual Art: Generating paintings, illustrations, and graphic designs using GANs and other neural network architectures.
