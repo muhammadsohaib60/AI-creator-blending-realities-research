@@ -1,6 +1,8 @@
 # AI-creator-blending-realities-research
 
-Welcome to the AI-Creator-Blending-Realities-Research project! This repository is dedicated to exploring the intersection of artificial intelligence, creative processes, and the blending of virtual and physical realities. Our research aims to push the boundaries of what AI can achieve in generating, enhancing, and transforming creative content across various mediums.
+Welcome to the AI-Creator-Blending-Realities-Research project! 
+
+This repository is dedicated to exploring the intersection of artificial intelligence, creative processes, and the blending of virtual and physical realities. Our research aims to push the boundaries of what AI can achieve in generating, enhancing, and transforming creative content across various mediums.
 
 📝 Overview
 
